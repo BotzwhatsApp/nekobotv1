@@ -1,31 +1,31 @@
-## REUZSC
+## nekobotz
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
-
-
-
-
+saya
+saya
+saya
+saya
 
 
 
 ## CARA INSTALL
 # TERMUX
 ```bash
-> download termux
+> unduh termux
 > buka
-> pkg install git
+> pkg instal git
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git klon https://github.com/BotzwhatsApp/neko
+> cd neko
 > bash install.sh
-> node index.js
+> simpul index.js
 ```
 
 
-# FITUR
-
-| KEADAAN       |               FITUR     |
+#FITUR
+saya
+| KEADAAN | FITUR |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
 |       ✅       | ANIMEPICT                         |
